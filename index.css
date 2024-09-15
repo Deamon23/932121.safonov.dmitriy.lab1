@@ -47,6 +47,7 @@ body {
 .content h2 {
     text-align: left;
     display: flex; align-items: center;
+    word-spacing: 6px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -85,6 +86,7 @@ body {
 
 #aqua{
     color: aqua;
+    letter-spacing: 6px;
 } 
 
 .content ul > li {
